@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Computer Science undergraduate with a strong interest in cybersecurity, focusing on network security, threat analysis, and ethical hacking. Experienced with tools like Nmap, Wireshark, Metasploit, Burp Suite, Ettercap, and Kali Linux, with knowledge of penetration testing and vulnerability assessment.</p>
+<p align="left">Computer Science undergraduate with a strong interest in cybersecurity, focusing on network security, threat analysis, and ethical hacking. Experienced with tools like Nmap, Wireshark, Metasploit, Burp Suite, Ettercap, and Kali Linux, with knowledge of penetration testing and vulnerability assessment                                                                                                                     .</p>
 
 ###
 
