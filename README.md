@@ -2,15 +2,15 @@
 
 ###
 
-<img align="right" height="200" src="https://t4.ftcdn.net/jpg/02/45/63/69/360_F_245636933_kY23ohGptK5t6n8wGSXIgLgVXWeHJRct.jpg"  />
-
-###
-
 <p align="left">Computer Science undergraduate with a strong interest in cybersecurity, focusing on network security, threat analysis, and ethical hacking. Experienced with tools like Nmap, Wireshark, Metasploit, Burp Suite, Ettercap, and Kali Linux, with knowledge of penetration testing and vulnerability assessment.</p>
 
 ###
 
 <h2 align="left">About me</h2>
+
+###
+
+<img align="right" height="200" src="https://t4.ftcdn.net/jpg/02/45/63/69/360_F_245636933_kY23ohGptK5t6n8wGSXIgLgVXWeHJRct.jpg"  />
 
 ###
 
