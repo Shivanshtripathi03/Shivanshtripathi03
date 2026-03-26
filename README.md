@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Computer Science undergraduate with a strong interest in cybersecurity, focusing on network security, threat analysis, and ethical hacking. Experienced with tools like Nmap, Wireshark, Metasploit, Burp Suite, Ettercap, and Kali Linux, with knowledge of penetration testing and vulnerability assessment                                                                                                                     .</p>
+<p align="left">Computer Science undergraduate with a strong interest in cybersecurity, focusing on network security, threat analysis, and ethical hacking. Experienced with tools like Nmap, Wireshark, Metasploit, Burp Suite, Ettercap, and Kali Linux, with knowledge of penetration testing and vulnerability assessment.</p>
 
 ###
 
@@ -50,10 +50,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/snake.svg" alt="Snake animation" />
 
 ###
