@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science undergraduate with a strong interest in cybersecurity, focusing on network security, threat analysis, and ethical hacking. Experienced with tools like Nmap, Wireshark, Metasploit, Burp Suite, Ettercap, and Kali Linux, with knowledge of penetration testing and vulnerability assessment.</p>
+<p align="left">I am a Computer Science undergraduate with a strong interest in cybersecurity, specializing in network security, threat analysis, and ethical hacking..</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I am a third-year Computer Science undergraduate at VIT Chennai with a strong interest in cybersecurity and computer networks. I have hands-on experience with tools such as Nmap, Wireshark, Metasploit, and Kali Linux, and I enjoy analyzing systems, identifying vulnerabilities, and understanding real-world attack and defense techniques.<br><br>I have a solid foundation in Data Structures and programming, with proficiency in C++, Python, and Java. I am particularly interested in network security, ethical hacking, and threat analysis, and I continuously work on strengthening both my practical and theoretical knowledge.<br><br>Beyond academics, I am actively involved in sports, particularly volleyball and basketball. I value teamwork, discipline, and consistency—qualities that also reflect in my approach to problem-solving and learning.<br><br>My goal is to develop deep expertise in cybersecurity and grow into a highly skilled white-hat hacker by continuously learning, practicing, and staying updated with the evolving threat landscape.</p>
+<p align="left">I am a Computer Science undergraduate at VIT Chennai with a strong interest in cybersecurity and computer networks. I have hands-on experience with tools such as Nmap, Wireshark, Metasploit, and Kali Linux, and I enjoy analyzing systems, identifying vulnerabilities, and understanding real-world attack and defense techniques.<br><br>I have a solid foundation in Data Structures and programming, with proficiency in C++, Python, and Java. I am particularly interested in network security, ethical hacking, and threat analysis, and I continuously work on strengthening both my practical and theoretical knowledge.<br><br>Beyond academics, I am actively involved in sports, particularly volleyball and basketball. I value teamwork, discipline, and consistency—qualities that also reflect in my approach to problem-solving and learning.<br><br>My goal is to develop deep expertise in cybersecurity and grow into a highly skilled white-hat hacker by continuously learning, practicing, and staying updated with the evolving threat landscape.</p>
 
 ###
 
