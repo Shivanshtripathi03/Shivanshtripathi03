@@ -3,6 +3,11 @@
 ###
 
 <p align="left">I am a Computer Science undergraduate with a strong interest in cybersecurity, specializing in network security, threat analysis, and ethical hacking.</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/shivansh-tripathi-36a33621a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
