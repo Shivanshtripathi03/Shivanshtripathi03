@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Computer Science undergraduate with a strong interest in cybersecurity, specializing in network security, threat analysis, and ethical hacking..</p>
+<p align="left">I am a Computer Science undergraduate with a strong interest in cybersecurity, specializing in network security, threat analysis, and ethical hacking.</p>
 
 ###
 
