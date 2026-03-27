@@ -46,3 +46,20 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shivanshtripathi03/Shivanshtripathi03/output/github-snake.svg" />
+</picture>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  
+  🌟
+  
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  <i>Thanks for visiting my profile! Have a great day!</i>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+</div>
