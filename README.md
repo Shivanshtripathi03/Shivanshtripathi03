@@ -49,8 +49,7 @@ During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure
 • Nmap                • Wireshark
 • Metasploit          • Nessus
 • Splunk              • CloudSEK
-• Zscaler ZTNA        • Fortinet
-• Trend Micro         • Micro Focus
+• Zscaler ZTNA        • Fortinet         
 • OWASP Top 10
 ```
 
