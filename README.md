@@ -12,10 +12,7 @@ Passionate about building secure systems, analyzing threats, and exploring real-
   <a href="https://www.linkedin.com/in/shivansh-tripathi-36a33621a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin"/>
   </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" alt="email"/>
-  </a>
+  
 </div>
 
 ---
