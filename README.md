@@ -9,10 +9,23 @@ Passionate about building secure systems, analyzing threats, and exploring real-
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shivansh-tripathi-36a33621a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin"/>
-  </a>
-  
+
+<a href="https://www.linkedin.com/in/shivansh-tripathi-36a33621a/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/Shivansh_tripathi03/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="38" alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/shivanshtr8ee1" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="38" height="38" alt="GeeksforGeeks"/>
+</a>
+
+<a href="mailto:shivanshtripathi03@gmail.com">
+<img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" alt="Email"/>
+</a>
+
 </div>
 
 ---
@@ -25,7 +38,7 @@ I'm currently pursuing **B.Tech in Computer Science and Engineering** at **VIT C
 
 My curiosity for understanding how systems are attacked—and more importantly, how they can be defended—has led me to explore penetration testing, security monitoring, vulnerability assessment, and defensive security through both personal projects and professional experience.
 
-During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure to enterprise security operations and worked with industry tools used in real-world security environments. This experience strengthened my understanding of modern cyber threats and defensive strategies while giving me valuable insight into government cybersecurity operations.
+During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure to enterprise security operations and worked with industry-standard security technologies including **CloudSEK**, **Zscaler ZTNA**, **Fortinet**, **Trend Micro Deep Security**, **Micro Focus**, and **Splunk**. This experience strengthened my understanding of modern cyber threats, defensive strategies, and cybersecurity operations within a government environment.
 
 <br>
 
@@ -38,9 +51,10 @@ During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure
 • Splunk              • CloudSEK
 • Zscaler ZTNA        • Fortinet
 • Trend Micro         • Micro Focus
+• OWASP Top 10
 ```
 
-### 💻 Programming
+### 💻 Programming Languages
 
 ```text
 C++ • Python • Java • JavaScript • HTML • CSS • SQL
@@ -48,7 +62,8 @@ C++ • Python • Java • JavaScript • HTML • CSS • SQL
 
 ### 🚀 What I'm Working On
 
-- 🔹 AI-powered Dark Web Threat Intelligence Platform
+- 🔹 DarkIntelliWeb – AI-powered Dark Web Threat Intelligence Platform
+- 🔹 ITAIS – Intrusion Triggered Attacker Intelligence Scanner
 - 🔹 Security Automation Tools
 - 🔹 Threat Intelligence Research
 - 🔹 Vulnerability Assessment & Penetration Testing
@@ -65,16 +80,13 @@ C++ • Python • Java • JavaScript • HTML • CSS • SQL
 
 ---
 
-## ⚡ A Little More About Me
+## ⚡ Beyond Cybersecurity
 
-Outside cybersecurity, I enjoy playing **Volleyball 🏐** and **Basketball 🏀**. Sports have taught me teamwork, discipline, and consistency—qualities that influence the way I approach problem-solving, continuous learning, and technical challenges.
+Outside of cybersecurity, I enjoy playing **Volleyball 🏐** and **Basketball 🏀**. Sports have taught me teamwork, discipline, leadership, and resilience—qualities that shape how I approach technical challenges and continuous learning.
 
-I believe cybersecurity is an ever-evolving field where there's always something new to learn. My goal is to contribute to meaningful security projects, build innovative tools, and continuously grow as a cybersecurity professional.
+I believe cybersecurity is a field where learning never stops. My goal is to build impactful security solutions, contribute to the cybersecurity community through open-source projects and technical content, and grow into a skilled Cybersecurity Engineer specializing in Threat Intelligence and Defensive Security.
 
-> *"The best defense starts with understanding the attack."*
-
-<h2 align="left">Skills</h2>
-
+> **"The best defense starts with understanding the attack."**
 ###
 
 <div align="left">
