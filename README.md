@@ -12,10 +12,7 @@ Computer Science undergraduate at VIT Chennai passionate about Cybersecurity, De
   <a href="https://github.com/Shivanshtripathi03" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"/>
   </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" alt="email"/>
-  </a>
+  
 </div>
 
 ###
