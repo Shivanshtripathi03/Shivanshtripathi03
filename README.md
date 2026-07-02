@@ -1,27 +1,128 @@
-<h1 align="left">Hey! I'm Shivansh</h1>
+<h1 align="left">Hey! I'm Shivansh Tripathi 👋</h1>
 
-###
+<p align="left">
+Computer Science undergraduate at VIT Chennai passionate about Cybersecurity, Defensive Security, Network Security, Threat Intelligence, and Ethical Hacking. I enjoy building security tools, exploring real-world attack and defense techniques, and continuously learning through hands-on projects, labs, and Capture The Flag (CTF) challenges.
+</p>
 
-<p align="left">I am a Computer Science undergraduate with a strong interest in cybersecurity, specializing in network security, threat analysis, and ethical hacking.</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/shivansh-tripathi-36a33621a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+
+  <a href="https://github.com/Shivanshtripathi03" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" alt="email"/>
   </a>
 </div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-###
+<img align="right" height="250" src="https://t4.ftcdn.net/jpg/02/45/63/69/360_F_245636933_kY23ohGptK5t6n8wGSXIgLgVXWeHJRct.jpg"/>
 
-<img align="right" height="200" src="https://t4.ftcdn.net/jpg/02/45/63/69/360_F_245636933_kY23ohGptK5t6n8wGSXIgLgVXWeHJRct.jpg"  />
+<p align="left">
 
-###
+🎓 B.Tech Computer Science Engineering student at <b>VIT Chennai</b> (Expected Graduation: <b>2027</b>).
 
-<p align="left">I am a Computer Science undergraduate at VIT Chennai with a strong interest in cybersecurity and computer networks. I have hands-on experience with tools such as Nmap, Wireshark, Metasploit, and Kali Linux, and I enjoy analyzing systems, identifying vulnerabilities, and understanding real-world attack and defense techniques.<br><br>I have a solid foundation in Data Structures and programming, with proficiency in C++, Python, and Java. I am particularly interested in network security, ethical hacking, and threat analysis, and I continuously work on strengthening both my practical and theoretical knowledge.<br><br>Beyond academics, I am actively involved in sports, particularly volleyball and basketball. I value teamwork, discipline, and consistency—qualities that also reflect in my approach to problem-solving and learning.<br><br>My goal is to develop deep expertise in cybersecurity and grow into a highly skilled white-hat hacker by continuously learning, practicing, and staying updated with the evolving threat landscape.</p>
+<br><br>
 
-###
+🛡️ Cybersecurity Intern at <b>CERT Uttarakhand (ITDA)</b>, where I gained hands-on experience in Vulnerability Assessment & Penetration Testing (VAPT), Defensive Security, Security Monitoring, Threat Intelligence, and enterprise security operations within a government environment.
+
+<br><br>
+
+💻 Passionate about Cybersecurity with strong interests in:
+
+• Network Security
+
+• Threat Intelligence
+
+• Penetration Testing
+
+• SOC Operations
+
+• Vulnerability Assessment
+
+• Defensive Security
+
+• Cloud Security
+
+<br><br>
+
+🔍 Hands-on experience with security tools and platforms including:
+
+• Kali Linux
+
+• Nmap
+
+• Wireshark
+
+• Burp Suite
+
+• Metasploit
+
+• Splunk
+
+• Nessus
+
+• OWASP Top 10
+
+• Linux
+
+• CloudSEK
+
+• Zscaler ZTNA
+
+• Fortinet
+
+<br><br>
+
+💡 Strong programming foundation with experience in:
+
+• C++
+
+• Python
+
+• Java
+
+• JavaScript
+
+• HTML/CSS
+
+• SQL
+
+<br><br>
+
+🚀 I enjoy developing cybersecurity projects that automate security tasks and improve threat detection. My notable projects include building solutions for threat intelligence, network reconnaissance, vulnerability assessment, and security automation.
+
+<br><br>
+
+📚 Currently expanding my knowledge in:
+
+• Active Directory Security
+
+• Detection Engineering
+
+• Malware Analysis
+
+• Threat Hunting
+
+• Cloud Security
+
+• Digital Forensics
+
+<br><br>
+
+🏐 Beyond technology, I actively participate in volleyball and basketball. Sports have strengthened my teamwork, discipline, leadership, and problem-solving abilities—qualities that I bring into cybersecurity and software development.
+
+<br><br>
+
+🎯 My long-term goal is to become a highly skilled Cybersecurity Engineer specializing in Threat Intelligence, Defensive Security, and Advanced Penetration Testing while contributing to the cybersecurity community through research, open-source projects, and technical content.
+
+</p>
 
 <h2 align="left">Skills</h2>
 
