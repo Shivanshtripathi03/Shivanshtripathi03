@@ -11,19 +11,19 @@ Passionate about building secure systems, analyzing threats, and exploring real-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shivansh-tripathi-36a33621a/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/u/Shivansh_tripathi03/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="38" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/shivanshtr8ee1" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="38" height="38" alt="GeeksforGeeks"/>
+<a href="https://www.geeksforgeeks.org/profile/shivanshtr8ee1/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
 <a href="mailto:shivanshtripathi03@gmail.com">
-<img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -34,11 +34,11 @@ Passionate about building secure systems, analyzing threats, and exploring real-
 
 <img align="right" height="250" src="https://t4.ftcdn.net/jpg/02/45/63/69/360_F_245636933_kY23ohGptK5t6n8wGSXIgLgVXWeHJRct.jpg"/>
 
-I'm currently pursuing **B.Tech in Computer Science and Engineering** at **VIT Chennai** with a deep interest in **Cybersecurity**, **Network Security**, **Threat Intelligence**, and **Ethical Hacking**.
+I'm currently pursuing **B.Tech in Computer Science and Engineering** at **VIT Chennai** with a strong interest in **Cybersecurity**, **Network Security**, **Threat Intelligence**, and **Ethical Hacking**.
 
-My curiosity for understanding how systems are attacked—and more importantly, how they can be defended—has led me to explore penetration testing, security monitoring, vulnerability assessment, and defensive security through both personal projects and professional experience.
+My curiosity for understanding how systems are attacked—and more importantly, how they can be defended—has driven me to explore penetration testing, vulnerability assessment, security monitoring, and threat intelligence through practical projects, Capture The Flag (CTF) challenges, and real-world experience.
 
-During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure to enterprise security operations and worked with industry-standard security technologies including **CloudSEK**, **Zscaler ZTNA**, **Fortinet**, **Trend Micro Deep Security**, **Micro Focus**, and **Splunk**. This experience strengthened my understanding of modern cyber threats, defensive strategies, and cybersecurity operations within a government environment.
+During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure to enterprise security operations and worked with technologies including **CloudSEK**, **Zscaler ZTNA**, **Fortinet**, **Trend Micro Deep Security**, **Micro Focus**, **Splunk**, and industry-standard security practices in a government environment.
 
 <br>
 
@@ -60,34 +60,32 @@ During my internship at **CERT Uttarakhand (ITDA)**, I gained practical exposure
 C++ • Python • Java • JavaScript • HTML • CSS • SQL
 ```
 
-### 🚀 What I'm Working On
+### 🚀 Current Focus
 
 - 🔹 DarkIntelliWeb – AI-powered Dark Web Threat Intelligence Platform
 - 🔹 ITAIS – Intrusion Triggered Attacker Intelligence Scanner
-- 🔹 Security Automation Tools
-- 🔹 Threat Intelligence Research
+- 🔹 Security Automation & Threat Intelligence
 - 🔹 Vulnerability Assessment & Penetration Testing
-- 🔹 Network Security Projects
+- 🔹 Network Security Research
 
 ### 🌱 Currently Learning
 
 - Active Directory Security
 - Detection Engineering
 - Malware Analysis
-- Digital Forensics
 - Threat Hunting
+- Digital Forensics
 - Cloud Security
 
 ---
 
 ## ⚡ Beyond Cybersecurity
 
-Outside of cybersecurity, I enjoy playing **Volleyball 🏐** and **Basketball 🏀**. Sports have taught me teamwork, discipline, leadership, and resilience—qualities that shape how I approach technical challenges and continuous learning.
+Outside of technology, I enjoy playing **Volleyball 🏐** and **Basketball 🏀**. Sports have taught me teamwork, discipline, leadership, and resilience—qualities that influence the way I approach cybersecurity and software development.
 
-I believe cybersecurity is a field where learning never stops. My goal is to build impactful security solutions, contribute to the cybersecurity community through open-source projects and technical content, and grow into a skilled Cybersecurity Engineer specializing in Threat Intelligence and Defensive Security.
+I believe cybersecurity is an ever-evolving field where continuous learning is essential. My goal is to contribute to impactful security solutions, build open-source cybersecurity tools, and grow into a cybersecurity professional specializing in **Threat Intelligence**, **Defensive Security**, and **Advanced Penetration Testing**.
 
 > **"The best defense starts with understanding the attack."**
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
